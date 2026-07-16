@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="Screenshots/appSS1.png" width="300" alt="InfoCard Kotlin Screenshot 1" />
+  <img src="Screenshots/appSS_main.png" width="300" alt="InfoCard Kotlin Screenshot 1" />
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="Screenshots/appSS2.png" width="300" alt="InfoCard Kotlin Screenshot 2" />
+  <img src="Screenshots/appSS_add.png" width="300" alt="InfoCard Kotlin Screenshot 2" />
 </p>
 
 InfoCard, kredi ve banka kartı bilgilerinizi (kart numarası, son kullanma tarihi, CVV ve kart sahibi ismi) şifreli ve tamamen yerel (local) olarak güvenle saklamanızı, yönetmenizi ve kopyalamanızı sağlayan, modern tasarımlı ve premium bir Android cüzdan uygulamasıdır.
